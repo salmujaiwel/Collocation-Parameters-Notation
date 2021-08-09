@@ -5,7 +5,7 @@
 	- W_N--MI5--Col+5 -5.xlsx
 	- W_N--MI5--Col+5 -5.xlsx
 
-# Topics Outputs of LSA and Optimal Model of LDA: 
+# Topics Outputs of LSA and Optimal Model of LDA (GenSim): 
 
 	- man-news-TM-output.xlsx
 	- man-opinions-TM-output.xlsx
